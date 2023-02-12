@@ -1,0 +1,34 @@
+Houchins
+Spanish 3
+D
+1
+DeSteph
+AP Comp Sci A
+C
+2
+Munao
+English 2
+F
+3
+Mantra
+AP Calc BC
+A+
+4
+Sophomore Wellness
+Keller
+U
+5
+Accelerated Chemistry
+Teberg
+B
+6
+APUSH
+Hamman
+A
+7
+Band
+Mr.T
+A-
+8
+
+
