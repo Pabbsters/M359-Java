@@ -1,11 +1,12 @@
+import java.util.Scanner;
+
 public class Show {
     private String date;
     private double price;
     private int qty;
     private String performer;
     private String city;
-
-    public Show(String date ,double price,int qty,String performer, String city){
+    public Show(String date, double price, int qty, String performer, String city){
         this.date= date;
         this.price= price;
         this.qty= qty;
@@ -31,7 +32,7 @@ public class Show {
     public void setQty(int qty) {
         this.qty = qty;
     }
-    public String performer(){
+    public String getPerformer(){
         return performer;
     }
     public void setPerformer(String performer) {
@@ -44,12 +45,15 @@ public class Show {
         this.city = city;
     }
 
+    /**
+     *
+     * @return
+     */
     public String toString(){
-        String print= "Date\tPrice\tQty\tPerformer\t\tCity\t\n";
-        print+="--------------------------------------------------------------------\n";
-        print+=date+ "\t$"+ price+ "\t" + qty + "\t" + performer + "\t\t" + city;
+        String print="";
+        print+= date+ "\t$"+ price+ "\t\t" + qty + "\t\t" + performer + "\t\t\t" + city + "\n";
+        print += "\n";
         return print;
 
     }
 }
-
