@@ -17,7 +17,7 @@ public class TicketMaster {
      */
     public void readFile() throws FileNotFoundException {
         String p = "";
-        File myFile = new File("D:\\M359-Java\\Java\\Unit7");
+        File myFile = new File("D:\\M359-Java\\Java\\Unit7\\showData.txt");
         Scanner scan = new Scanner(myFile);
         while (scan.hasNextLine()) {
             String date = scan.next();

@@ -29,7 +29,7 @@ public class TriviaGame {
      * @throws FileNotFoundException
      */
       public int readFile() throws FileNotFoundException {
-          File myFile = new File("D:\\Java\\Unit6\\HistoryQuestions.txt");
+          File myFile = new File("D:\\M359-Java\\Java\\Unit6\\HistoryQuestions.txt");
           Scanner scan = new Scanner(myFile);
           for (int x = 0; x < myQuestions.length; x++) {
               if (scan.hasNextLine()) {
