@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76f0a9fb-f045-4e5c-9a10-f9ecea53abba" name="Changes" comment="" />
+    <list default="true" id="76f0a9fb-f045-4e5c-9a10-f9ecea53abba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Java/Unit7/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Unit9/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Unit9/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Unit9/src/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Unit9/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Unit9/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Unit9/src/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Unit9/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Unit9/src/Transmission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Unit9/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Unit9/src/VehicleTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,19 +35,44 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LfKpxBBIE2SVtlk3d9lL6XcVOz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "D:/M359-Java"
+    "last_opened_file_path": "D:/M359-Java/Java",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.VehicleTester">
+    <configuration name="ShapeTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShapeTester" />
+      <module name="Unit9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit9.Notes_9_3_9_4.ShapeTester" />
+      <module name="Unit9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit9.Notes_9_3_9_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TicketMasterDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TicketMasterDriver" />
       <module name="Unit7" />
@@ -34,8 +80,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VehicleTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VehicleTester" />
+      <module name="Unit9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VehicleTester" />
+        <item itemvalue="Application.ShapeTester (1)" />
+        <item itemvalue="Application.ShapeTester" />
         <item itemvalue="Application.TicketMasterDriver" />
       </list>
     </recent_temporary>
@@ -61,5 +117,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
