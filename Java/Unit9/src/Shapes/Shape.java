@@ -1,3 +1,5 @@
+package Shapes;
+
 public class Shape {
     private String sColor;
     private String shape;
